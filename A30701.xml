@@ -1,0 +1,353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The believer's groan for heaven in a sermon at the funeral of honourable Sir Richard Hoghton, of Hoghton, baronet / preached at Preston in Amoundernes in Lancashire, Feb. 14, 1677, by Seth Bushell ...</title>
+            <author>Bushell, Seth, 1621-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30701</idno>
+            <idno type="STC">Wing B6236</idno>
+            <idno type="STC">ESTC R4461</idno>
+            <idno type="EEBO-CITATION">13679878</idno>
+            <idno type="OCLC">ocm 13679878</idno>
+            <idno type="VID">101288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30701)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101288)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 839:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The believer's groan for heaven in a sermon at the funeral of honourable Sir Richard Hoghton, of Hoghton, baronet / preached at Preston in Amoundernes in Lancashire, Feb. 14, 1677, by Seth Bushell ...</title>
+                  <author>Bushell, Seth, 1621-1684.</author>
+               </titleStmt>
+               <extent>[5], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Sawbridg ... and Philip Burton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hoghton, Richard, --  Sir, d. 1678.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:101288:1"/>
+            <p>Licenſed,</p>
+            <p>
+               <hi>W. Jane.</hi>
+            </p>
+            <p>
+               <hi>March</hi> 27. 1678.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:101288:1"/>
+            <p>THE BELIEVER'S <hi>Groan for Heaven:</hi> IN A SERMON At the FUNERAL Of the Honorable Sir <hi>Richard Hoghton,</hi> of <hi>HOGHTON</hi> Baronet.</p>
+            <p>PREACHED At <hi>Preſton</hi> in <hi>Amoundernes</hi> in <hi>Lancaſhire. Feb.</hi> 14. 1677.</p>
+            <p>By <hi>Seth Buſhell,</hi> D. D.</p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <bibl>Philo <hi>lib.</hi> 1. <hi>de vita Moſis.</hi>
+                  </bibl>
+               </p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <bibl>Chryſoſt. in <hi>Act.</hi> 26.</bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Sawbridg,</hi> at the Three <hi>Flower-de-luces</hi> in <hi>Little-Britain,</hi> and <hi>Philip Burton,</hi> at <hi>Preſton</hi> in <hi>Lancaſhire</hi> 1678.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101288:2"/>
+            <pb facs="tcp:101288:2"/>
+            <head>To the Honorable Sir <hi>CHARLES HOGHTON</hi> Of <hi>HOGHTON</hi> Baronet, And the Honorable Lady The Lady <hi>SARAH HOGHTON</hi> His Mother, Mercy, Grace and Peace.</head>
+            <p>THE enſuing Diſcourſe is moſt pro<g ref="char:EOLhyphen"/>perly yours, being had upon that oc<g ref="char:EOLhyphen"/>caſion, wherein your ſelves and Relations are concerned ſo nearly; and therefore this Publick tender thereof is firſtly made unto you: and that not in point of concernment only, as your intereſt, but of his duty too; by whom the tender's made: Who does ingeniouſly acknowledg as your Candor and kindneſs, and therein the many engagements laid upon him, ſo his readi<g ref="char:EOLhyphen"/>neſs to expreſs a due ſenſe thereof, in all things, on your account, wherein he's ca<g ref="char:EOLhyphen"/>pable
+<pb facs="tcp:101288:3"/>of doing Service, or may teſtifie the ſenſe of an obligation: And who in the mean while is an humble ſuppliant at the Throne of Grace, for the continued influ<g ref="char:EOLhyphen"/>ence of all grace upon you and yours, in order to a proſperous well-being in this life, and everlaſting happineſs in the life to come.</p>
+            <closer>
+               <signed>
+                  <hi>So praies, Your Honours humble devoted in all love and Service,</hi> SETH B<g ref="char:V">Ʋ</g>SHELL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:101288:3"/>
+            <head>THE BELIEVER'S Groan for Heaven.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Cor. 5.2.</hi>
+                  </bibl>
+                  <p>For in this we groan earneſtly, deſiring to be clothed up<g ref="char:EOLhyphen"/>on with our houſe which is from Heaven.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE door into the Text, and the diſ<g ref="char:EOLhyphen"/>courſe thereon ſhall open at no fur<g ref="char:EOLhyphen"/>ther diſtance then the foregoing <hi>Verſe,</hi> wherein the Apoſtle ſtiles not unele<g ref="char:EOLhyphen"/>gantly the frail mortal body of man, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the houſe of this Tent, or Scene, or Tabernacle; which may ſeem to be Metaphorically taken, either from War, or the Stage.</p>
+            <p>If from War, it expreſſes our life a warfare, and that we are in a flitting ambulatory conditi<g ref="char:EOLhyphen"/>on, ever and anon in danger; engaging or expe<g ref="char:EOLhyphen"/>cting to be engaged by the enemy, and our Tents are to be removed when the battel is done; and the Victor is then rewarded.</p>
+            <p>If from the Stage, (where the word <hi>[Scene]</hi> is ſtill uſed) it expreſſes the whole world to be but a great Play, where ſome act the Prince, ſome
+<pb n="2" facs="tcp:101288:4"/>the Captain, ſome a Beggar, as they have their ſeveral parts aſſign'd to them by the Maſter of the <hi>Drama.</hi> Therefore <hi>Epictetus</hi> adviſeth <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to perſonate that which you have under<g ref="char:EOLhyphen"/>taken, and to act your part as well as you can, conſidering what critical ſpectators and judges you have. But when the Comedy is done, the Scenes are removed; when the parts are acted, the properties muſt be pulled off, and all are equal behind the Curtain.</p>
+            <p>But poſſibly the Apoſtle may allude to the <hi>Jewiſh</hi> Tabernacle, that portable moving Tem<g ref="char:EOLhyphen"/>ple in the Wilderneſs, oppoſite to that ſo firmly built at <hi>Jeruſalem:</hi> This was given for a time to the <hi>Iſraelites,</hi> but afterwards was to be chang'd, and that from a houſe of skins, to a ſumptuous Cedar building. Thus St. <hi>Peter</hi> ſays, that he <hi>muſt put off his Tabernacle,</hi> 2 <hi>Pet.</hi> 1.14. And God is ſaid <hi>to dwell in us,</hi> as in his Tabernacle, 2 <hi>Cor.</hi> 6.16. This expreſſes our condition as Strangers and Travellers; we cannot ſtay here long, <hi>for we have here no continuing City.</hi> Hence the Apoſtle infers, that we ought to long for a better, and more perfect Tabernacle, that is to ſay, not of this building; not a Manufacture, not earth<g ref="char:EOLhyphen"/>ly, not to be diſſolv'd, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an houſe not to divert, but dwell in, <hi>[eternal in the heavens.]</hi>
+            </p>
+            <pb n="3" facs="tcp:101288:4"/>
+            <p>
+               <hi>For in this</hi> (ſays he) <hi>we groan,</hi> That is in this earthly Tabernacle <hi>we groan.</hi> Forasmuch as we are ſurrounded and oppreſſed with the miſeries and afflictions of this preſent ſtate, and our hea<g ref="char:EOLhyphen"/>ven-born Souls are cloy'd and conſtring'd with theſe earthly bodies, and the infirmities of all ſorts that attend them; therefore in the interim <hi>we groan that we may be diſſolved:</hi> which is St. <hi>Paul</hi>'s wiſh that had a plerophory of a better ſtate.</p>
+            <p>
+               <hi>We groan,</hi> It implies ſomething he would be from, <hi>i. e.</hi> the burden he labours under: And ſomething he would be at, <hi>i. e.</hi> an heavenly Manſion, an heavenly body.</p>
+            <p>In the words we may note theſe Two particu<g ref="char:EOLhyphen"/>lars.</p>
+            <list>
+               <item>1. St. <hi>Paul</hi>'s Paſſion.</item>
+               <item>2. The motive and object of that Paſſion.</item>
+            </list>
+            <p n="1">1. His Paſſion, expreſs'd here by two vehe<g ref="char:EOLhyphen"/>ment words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>[we groan earneſtly, deſiring,]</hi> which denotes a longing deſire, impa<g ref="char:EOLhyphen"/>tient of delay.</p>
+            <p n="2">2. The motive and object of this deſire, ex<g ref="char:EOLhyphen"/>preſs'd here in a double Metaphor, denoting the glory of the Reſurrection,
+<list>
+                  <item>1. By <hi>[a houſe from heaven.]</hi>
+                  </item>
+                  <item>2. In the manner of being poſſeſſed of it, <hi>viz.</hi> by <hi>[being clothed upon.]</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="4" facs="tcp:101288:5"/>
+            <p>A complication of Metaphors taken from ſe<g ref="char:EOLhyphen"/>veral things is uſual in Scripture, and here carries on the ſame ſenſe.</p>
+            <p n="1">1. From St. <hi>Paul</hi>'s Paſſion expreſs'd in <hi>groan<g ref="char:EOLhyphen"/>ing,</hi> obſerve that,</p>
+            <p>Our preſent ſtate is a burden under which <hi>we groan.</hi>
+            </p>
+            <p>That this preſent mortal ſtate ſhould be a burden, and this life ſpent with ſighing, as there's nothing more certain, ſo nothing is more duly ſens'd by true Believer's: Let us enquire there<g ref="char:EOLhyphen"/>fore into the reaſons why; and we ſhall find that it is a burden in reſpect of Corporal and Spiritual evils.</p>
+            <p n="1">1. Corporal evils, ſuch are theſe, <hi>viz.</hi>
+               <list>
+                  <item>1. Chaſtiſements from the hand of God.</item>
+                  <item>2. Injuries from the hands of Men.</item>
+                  <item>3. Pains and infirmities of the Body.</item>
+               </list>
+            </p>
+            <p n="1">1. Chaſtiſements and corrections from the hand of God. Theſe are to ſubdue our cor<g ref="char:EOLhyphen"/>ruptions, to purge away our droſs, and take a<g ref="char:EOLhyphen"/>way our Tin: the end is good, and the deſign our benefit, though the means be bitter, and the work unwelcome. The Phyſick is from Hea<g ref="char:EOLhyphen"/>ven, yet 'tis ſharp and griping, and makes the heart to ake, the belly tremble, the lips to qui<g ref="char:EOLhyphen"/>ver, and rottenneſs to enter into the bones. The
+<pb n="5" facs="tcp:101288:5"/>hand of the moſt High is heavy, and turns the moiſture of man into the drought of Summer. Thus we are chaſtened of the Lord; but it is that we may not be condemned with the world.</p>
+            <p n="2">2. Injuries that we ſuſtain from the hand of men. For whilſt we are in this world, it is im<g ref="char:EOLhyphen"/>poſſible but that offences will come. And they that will live godly muſt expect to ſuffer from the men of the world. They ſhall have tribu<g ref="char:EOLhyphen"/>lation, they are killed all the day long, and are accounted as ſheep for the ſlaughter: the rod of the wicked lying upon the lot of the righteous.</p>
+            <p n="3">3. The pains of the body, and the manifold infirmities, weakneſs and ſickneſſes thereof; theſe render this preſent mortal ſtate a burden. We are born to theſe troubles as the ſparks fly up<g ref="char:EOLhyphen"/>ward. And as we grow in years, ſo in diſeaſes; the older we are, the more infirm: and death is the beſt Phyſitian that cures us of all our mala<g ref="char:EOLhyphen"/>dies, which in our lives do ſo ſuperabound. For <hi>ipſa vita morbus eſt,</hi> Aug. Therefore in the in<g ref="char:EOLhyphen"/>terim our preſent ſtate in reſpect of corporal evils is a burden under which we groan.</p>
+            <p n="2">2. But the burden of ſpiritual evils is more diſquieting and inſupportable: ſuch are theſe, <hi>viz.</hi>
+               <list>
+                  <item>1. The burden of our corruptions.</item>
+                  <pb n="6" facs="tcp:101288:6"/>
+                  <item>2. Of Satan's temptations.</item>
+                  <item>3. Of Deſertion upon the account of ſin.</item>
+               </list>
+            </p>
+            <p n="1">1. The burden of our corruptions, which are continually heaving and fermenting within us; ever ſtirring to bring forth fruit unto death. The fleſh luſting againſt the Spirit; and the law of the members warring againſt the law of the mind. This old man is active, and unwearied in his work. This makes Believer's groan, and cry out, <hi>[wo is me that I dwell in Meſech, and have my habitation in the Tents of Kedar.]</hi> And this bur<g ref="char:EOLhyphen"/>den a man labours under all his days: So that he only that is dead, <hi>is free from ſin,</hi> Rom. 6.7. This made the Apoſtle ſo grievouſly bemoan his preſent ſtate, <hi>Rom.</hi> 7.24. <hi>O wretched man that I am; who ſhall deliver me from this body of death?</hi> It's fitly ſtiled a body of death, as well in reſpect of it's weight and ponderouſneſs; as of it's loath<g ref="char:EOLhyphen"/>ſomeneſs and annoiance.</p>
+            <p n="2">2. The aſſaults and temptations of Satan, who is ever buſie, going about, ſeeking whom he may devour. Who beſtirs himſelf with the utmoſt diligence to captivate immortal Souls: His winnowings and buffettings, his arts and ſtratagems, his ſubtilties and devices, which as a Sophiſter or Politician he uſes, to catch us in his ſnares, and to bring us into his Net; theſe are
+<pb n="7" facs="tcp:101288:6"/>an heavy burden to Believer's; and ſtir up in them, as the ſpirit of watchfulneſs againſt his encounters, ſo groaning to be delivered from him.</p>
+            <p n="3">3. Deſertions upon the account of ſin; when God withdraws the light of his Countenance, and hides his face that we cannot ſee him. When the joy of the Lord, which is the ſtrength of the Soul, is removed, and darkneſs, yea thick dark<g ref="char:EOLhyphen"/>neſs covers; then the Soul languiſheth under weakneſs, and does utter it's grief by groans in private. The ſpirit of man may ſupport his in<g ref="char:EOLhyphen"/>firmity, but this wounded ſpirit, who can bear? And thus the burden of ſpiritual evils does make believer's groan.</p>
+            <p n="2">2. From St. <hi>Paul</hi>'s Paſſion expreſs'd in <hi>[de<g ref="char:EOLhyphen"/>ſiring.]</hi>
+            </p>
+            <p>Obſerve that,</p>
+            <p>It is the property, nature and duty of true Chriſtians to deſire to get rid of this bur<g ref="char:EOLhyphen"/>den by death.</p>
+            <p>Death is <hi>ommibus finis, multis remedium, nonnullis votum.</hi> Therefore we find death in Scripture ſpoken of, promiſed, and beſtowed as a bleſſing. <hi>All things are yours,</hi> ſaith the Apoſtle, 1 <hi>Cor.</hi> 3.21. And in the enumeration of divers particulars there mentioned, death is reckoned up as one,
+<pb n="8" facs="tcp:101288:7"/>and theirs, and theirs to advantage. <hi>Solomon</hi> pre<g ref="char:EOLhyphen"/>fers it before the <hi>birth day.</hi> And St. <hi>Paul</hi> deſires to be <hi>diſſolved, as far better,</hi> Phil. 1.23. And he groans and waits for the <hi>redemption of the body,</hi> Rom. 8.23. and is willing to be <hi>abſent from the body,</hi> 2 Cor. 5.8.</p>
+            <p>Though St. <hi>Paul</hi> be not ſo much a Standard as a Pattern to Chriſtians, being a Star of the firſt Magnitude, in reſpect of his high aſſurance, and great meaſure of holineſs; yet there is no Chri<g ref="char:EOLhyphen"/>ſtian, though he comes not nigh to the glory of this example, but is bound to long for a better ſtate, though he paſs thereto through the Valley of the ſhadow of death. For where there is a principal of grace, there will be imprinted a pro<g ref="char:EOLhyphen"/>penſity towards Heaven. 'Tis the nature of grace to abſtract a perſon from the world, and to produce a tediouſneſs in earthly things; and to engrave a new bias in the Soul, whereby it is carried towards Heaven as its center and place of reſt: <hi>Devotio eſt motus mentis in deum.</hi> Where there is a work of grace, there the Soul follows hard after God, and longs to appear before him, and would break through all obſtruction, and endeavours the removing of all impediments that lie in its way. 'Tis the nature of love, that it cannot bur deſire enjoyment; and the more fer<g ref="char:EOLhyphen"/>vent
+<pb n="9" facs="tcp:101288:7"/>and true it is, the more it breaths after a full enjoyment of its Object: <hi>Where the treaſure is, there will the heart be alſo.</hi> Thus the love of Chriſt ſhed abroad in the Soul has a conſtraining ver<g ref="char:EOLhyphen"/>tue in it, and ſtirs up in true Chriſtians a deſire to die.</p>
+            <p>But here in reference to this point there are ſome particulars to be conſidered, as that</p>
+            <p n="1">1. This deſire of death is Spiritual, and not Natural; not for its own ſake, but the advan<g ref="char:EOLhyphen"/>tages and conſequences of it: as it is an out-let from ſin, and an in-let into happineſs. Nay na<g ref="char:EOLhyphen"/>ture cannot but abhor a diſſolution, the principal whereof is ſelf-preſervation. Thus ſays our bleſ<g ref="char:EOLhyphen"/>ſed Saviour, <hi>[let this cup paſs from me,]</hi> which yet upon other thoughts he preſently corrects by a free ſubmiſſion to his Fathers will, <hi>[never<g ref="char:EOLhyphen"/>theleſs not my will, but thine be done.]</hi> His ſuffer<g ref="char:EOLhyphen"/>ings as the School-men ſay, were againſt his <hi>vo<g ref="char:EOLhyphen"/>luntatem ſenſualitatis,</hi> by which we deſire life, and avoid that which is ſad and painful; but not a<g ref="char:EOLhyphen"/>gainſt his <hi>voluntatem rationalitatis.</hi>
+            </p>
+            <p n="2">2. This deſire to die muſt be without impa<g ref="char:EOLhyphen"/>tience and peeviſhneſs, as <hi>Elijah</hi> when he was perſecuted, then, <hi>O Lord, take away my life, for I am no better then my Fathers.</hi> And <hi>Jonah</hi> when the Gourd failed him, and he fainted; then he wiſh'd
+<pb n="10" facs="tcp:101288:8"/>in himſelf <hi>to die.</hi> As many do when the world frowns on them, and their enjoyments are im<g ref="char:EOLhyphen"/>bitter'd to them, when their hopes are diſap<g ref="char:EOLhyphen"/>pointed, and their humours croſs'd, then diſcon<g ref="char:EOLhyphen"/>tent ſeizeth their ſpirits, and they would go off in a pet, and paſs out of the world in a paſſion, as weary of Gods work, in either doing or en<g ref="char:EOLhyphen"/>during what he calls them to. This perverſe temper the very Heathens did explode, ſays <hi>Se<g ref="char:EOLhyphen"/>neca, Ridiculum eſt ad mortem currere taedio vitae.</hi> But now the true Chriſtian deſire much be with ſubmiſſion to the Divine Will and Wiſdom: we are not to ſtir from our Sentinel, nor quit our ſtation, till we have our Paſs-port and furloe from the General. We muſt wait God's leaſure as to our going off. There are many things we may deſire to have done, which we muſt not do our ſelves. We muſt not procure or haſten our own death, not break the Priſon, but ſtay for a legal releaſe: Say, <hi>it is the Lord, let him do what ſeems good unto him.</hi>
+            </p>
+            <p n="3">3. This true Chriſtian deſire to die may be conſiſtent with ſome kind of lothneſs to change. For there are ſeveral degrees of grace, and ſtrength, and all men are not equally prepar'd for, nor fortified againſt <hi>the King of terrours.</hi> For</p>
+            <p n="1">1. Men may deſire God to delay their deaths,
+<pb n="11" facs="tcp:101288:8"/>that they may be further ſerviceable to the Church. That was <hi>David</hi>'s deſign in his Prayer, <hi>to be ſpair'd a while, till he had ſhew'd Gods ſtrength to that generation, and his power to them that were to come,</hi> Pſal. 71.18. The like was St. <hi>Paul</hi>'s caſe, which put him in a ſtrait, <hi>Phil.</hi> 1.23, 24. <hi>For I am in a ſtrait betwixt two, having a deſire to depart, and to be with Chriſt, which is far better: nevertheleſs, to abide in the fleſh, is more needful for you: And ha<g ref="char:EOLhyphen"/>ving this confidence I know that I ſhall abide, and con<g ref="char:EOLhyphen"/>tinue with you all.</hi>
+            </p>
+            <p>But men muſt be careful in bounding and mo<g ref="char:EOLhyphen"/>derating this deſire, leſt they flatter themſelves, out of an over-love to this preſent life, that they are more neceſſary for the Service of their Gene<g ref="char:EOLhyphen"/>ration than indeed they are.</p>
+            <p n="2">2. This Chriſtian deſire to die may be conſi<g ref="char:EOLhyphen"/>ſtant with ſome lothneſs to change, and that for fear of thoſe things that lie betwixt us and the other world: ſuch are</p>
+            <p n="1">1. A ſeparation by death, the divorce be<g ref="char:EOLhyphen"/>tween ſoul and body, the parting of thoſe ſo old and cloſe companions. Nature ſhrinks at it, and St. <hi>Paul</hi> is not willing ſo to be unclothed, as to be found naked.</p>
+            <p n="2">2. There is alſo in death a diſſolution and corruption of the body, turning it into duſt, be<g ref="char:EOLhyphen"/>coming
+<pb n="12" facs="tcp:101288:9"/>vile and loathſom, the meat of worms. <hi>This body is ſown in corruption, and diſhonour,</hi> 1 Cor. 15.43. This ſtrikes nature with a kind of dread, which good men cannot wholly put off.</p>
+            <p n="3">3. The dreadfulneſs of the laſt Judgment; approaching before the infinite greatneſs and Majeſty of that God, from whoſe face Heaven and Earth fled away: who is Inexorable in his Juſtice, Irreſiſtible in his Power, and Intoller<g ref="char:EOLhyphen"/>able in his Wrath: This may make one ſay with <hi>David, My fleſh trembleth for fear of thee, and I am afraid of thy Judgments.</hi> This may make men deſire time to gain better aſſurance of their ſtate, which is but imperfect, and attained by degrees: Therefore life is a precious mercy, not ſo much for what we enjoy here, as for that a bleſſed eternity, and the aſſurance thereof de<g ref="char:EOLhyphen"/>pends upon it; and he that will find a treaſure in Heaven hereafter, muſt be careful to lay it up here, <hi>and give diligence to make his calling and election ſure.</hi> And hence it is, that men when they are viſited with ſickneſs may pray for recovery; and are to uſe the means appointed in order to the obtainment of it. They are alſo to pray for o<g ref="char:EOLhyphen"/>thers in their ſickneſs, and to make <hi>Sackcloth their clothing, and to humble their ſouls with faſting, Pſal.</hi> 35.13. And further they are to give
+<pb n="13" facs="tcp:101288:9"/>thanks for ſuch recoveries as a great mercy, and value the time ſo granted, and improve it as a choice and ſignal bleſſing, that muſt ſtrictly be accounted for. He that does thus, loves Hea<g ref="char:EOLhyphen"/>ven better than Earth; and this preſent life only in order to that which is to come.</p>
+            <p>But 3dly. There is a lothneſs to die, which is an evil diſeaſe, and may be truly ſtil'd Anti<g ref="char:EOLhyphen"/>chriſtian; which proceeds from men's inordi<g ref="char:EOLhyphen"/>nate affecting their preſent ſtate; when men ſit not looſe from the world, but their hearts are glew'd to it, that they cannot part with it: When they love the things in this world better than the things of Jeſus Chriſt; and prefer their luſts before their Saviour; and would rather feed upon husks with Swine, than the bread of life in their Fathers Houſe. Theſe are ſtruct dead with the very thoughts of death; and their heart like <hi>Nabal</hi>'s becomes cold as a ſtone, upon the violent darting in of an unacceptable appre<g ref="char:EOLhyphen"/>henſion of their latter end. Thus <hi>Adrian</hi> the Em<g ref="char:EOLhyphen"/>perour breaths out, when ready to die:
+<q>
+                  <l>
+                     <hi>Animula, vagula, blandula,</hi>
+                  </l>
+                  <l>
+                     <hi>Comes hoſpeſque corporis,</hi>
+                  </l>
+                  <l>
+                     <hi>Quae nunc abibis in loca,</hi>
+                  </l>
+                  <l>
+                     <hi>Pallidula, nudula, rigida,</hi>
+                  </l>
+                  <l>
+                     <hi>Nec ut ſoles dabis jocos?</hi>
+                  </l>
+               </q>
+            </p>
+            <pb n="14" facs="tcp:101288:10"/>
+            <p>This evil frame of heart is dangerous and de<g ref="char:EOLhyphen"/>ſtructive: So <hi>Ben Sirach, O death, how bitter is the remembrance of thee,</hi> &amp;c. When <hi>linquenda eſt tellus, &amp; domus, &amp; placens uxor,</hi> as he ſaith; <hi>haec ſunt quae faciunt invitos mori.</hi>
+            </p>
+            <p>And thus much for the former particular in the Text, <hi>viz.</hi> the vehemency of St. <hi>Paul</hi>'s Paſſion, expreſs'd in <hi>[groaning earneſtly, and deſiring.]</hi>
+            </p>
+            <p>I come now to the latter particular, <hi>viz.</hi> the Motive and Object of this deſire, (for death is de<g ref="char:EOLhyphen"/>ſirable but accidentally and indirectly) and this is expreſs'd in a double Metaphor in theſe words, <hi>viz. [clothed upon with an houſe which is from heaven.]</hi>
+            </p>
+            <p>Clothes are for a covering, an ornament, de<g ref="char:EOLhyphen"/>fence, a diſtinction: and ſuch is the glory of the future State.</p>
+            <p>For clothed upon ſignifies not any clothing in this life; as putting on Chriſt, and the Robes of his Righteouſneſs, or the putting on the New<g ref="char:EOLhyphen"/>man, or the Wedding-garment, or the like: but a Veſture of Immortality, which the followers of the Lamb are clothed with, ſtil'd <hi>White Raiment, and fine Linnen white and clean,</hi> Rev. 3.5. and 19.14. to denote their Joy, their Dignity, and their Triumph.</p>
+            <p n="2">2. Nor <hi>Secondly,</hi> does it mean any clothing be<g ref="char:EOLhyphen"/>fore
+<pb n="15" facs="tcp:101288:10"/>the Reſurrection; but then either the ſoul with a body, or that body with glorious Endow<g ref="char:EOLhyphen"/>ments. The Apoſtle diſtinguiſheth between be<g ref="char:EOLhyphen"/>ing naked, and being clothed, and being clothed upon; which the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the Text does intimate and offer to us.</p>
+            <p n="3">3. Neither thirdly does this <hi>[clothing upon]</hi> neceſſarily imply death, but a change, which ſhall be the condition of thoſe that are found a<g ref="char:EOLhyphen"/>live at the day of Judgment, and ſecond Coming of the Son of Man. 1 <hi>Theſ.</hi> 4.17. 1 <hi>Cor.</hi> 15.51. This day the Apoſtle look'd upon as near at hand, and did ſuppoſe it might come in his time: how much more may we expect it every mo<g ref="char:EOLhyphen"/>ment; <hi>Surely the night is far ſpent, and the day is at hand, therefore let us wait earneſtly till our change come.</hi> This of clothing is the former Metaphor.</p>
+            <p>The other Metaphor is <hi>[the Houſe from hea<g ref="char:EOLhyphen"/>ven]</hi> denoting the glory of the Reſurrection: the ſtability and permanency whereof is hinted, in that it is called an houſe; and the ſublimity and ſpirituality of that glorious condition is ex<g ref="char:EOLhyphen"/>preſſed, in that its ſaid to be from heaven. Only here muſt be thrown off two heretical Expoſi<g ref="char:EOLhyphen"/>tions, that would fondly be put upon theſe words.</p>
+            <p n="1">1. Of the <hi>Socinians,</hi> that ſuppoſe the Soul to
+<pb n="16" facs="tcp:101288:11"/>ſleep till the Reſurrection, and then to have a new heavenly body fitted for it; which con<g ref="char:EOLhyphen"/>ſumes and ſwallows up the old mortal body. And this they would have to be the <hi>[houſe from heaven.]</hi>
+            </p>
+            <p n="2">2. Of thoſe that would raiſe upon theſe words the Platonick Vehicles: As if this houſe were the Aetherial Vehicle, to which the Souls of the juſt are to be advanced, which is all the body deſign'd for them at the Reſurrection. For they make three ſorts of theſe Vehicles, <hi>viz.</hi> Trreſtrial, Aerial, and Aetherial. The Terre<g ref="char:EOLhyphen"/>ſtrial, ſay they, is that into which Souls are thruſt, as into a Priſon for miſdemeanours in a former world, and this is their earthly Vehicle. Then thoſe that have done well, and ſquared their actions according to the meet rule of ju<g ref="char:EOLhyphen"/>ſtice, theſe have an Aerial Vehicle. But thirdly, thoſe that have abounded in well-doing, and by living up to the height of vertue, have raiſed themſelves, and arrive at Heaven, theſe are ad<g ref="char:EOLhyphen"/>vanced to the Aetherial Vehicle; the Terreſtrial, like the Prophets Mantle, dropping from them in their aſſent thither. And they ſuppoſe this place of Scripture clinks to their thinking: as all He<g ref="char:EOLhyphen"/>reticks do coin notions, and then ſtretch and wreſt the holy Scriptures to give them countenance.
+<pb n="17" facs="tcp:101288:11"/>They turn the ſacred Scriptures into Philoſo<g ref="char:EOLhyphen"/>phical burleſque, and apply them to the ground<g ref="char:EOLhyphen"/>leſs fancies, and vain ſuperſtitions of a fabulous Philoſopher. Beware of ſuch corrupters of the Divine truth, who bring in damnable doctrines, that are incompatible with the Chriſtian Sy<g ref="char:EOLhyphen"/>ſteme, and deny the great Articles of our Be<g ref="char:EOLhyphen"/>lief; as the Reſurrection of the dead, the Mi<g ref="char:EOLhyphen"/>ſery of Mankind by nature, the Incarnation of Chriſt, the Covenant of Grace, and Life everla<g ref="char:EOLhyphen"/>ſting, and the like, which were ſo highly con<g ref="char:EOLhyphen"/>tended for againſt the wit and malice of the Hea<g ref="char:EOLhyphen"/>then; and the errors of thoſe that held contrarily thereto were accordingly condemn'd in the five general Councils. Beware of thoſe, they are Original errors, and in that the more dangerous, and of evil conſequence, by how much the more ancient.</p>
+            <p>Now for the correcting of theſe and many ſuch groſs conceits, we muſt not think that Al<g ref="char:EOLhyphen"/>legories run on four feet; nor muſt Metaphors be driven from their borrowed to their natural Senſes.</p>
+            <p>We ſhall therefore here endeavour to ſhew two things.</p>
+            <p>
+               <hi>Firſt,</hi> That by <hi>[being clothed upon]</hi> the Apoſtle means the retaining of the ſame body at the Re<g ref="char:EOLhyphen"/>ſurrection,
+<pb n="18" facs="tcp:101288:12"/>not any new, not any other body.</p>
+            <p>
+               <hi>Secondly,</hi> What that is that makes this body <hi>[an houſe from heaven.]</hi>
+            </p>
+            <p n="1">1. It is the ſame body that is Clothed upon: For he ſays that he would not be found naked, but have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſwallowed up of life; that is, that mortal ſhould put on immortality. Now there is no abolition, nor tranſubſtantiation, the ſame remains, but altered in quality, like Chriſt's body at the Transfiguration on the Mount; which was a <hi>Praeludium</hi> of the Reſurrection. So muſt our vile bodies be faſhioned according to that pattern, <hi>Phil.</hi> 3.21. and it is this mortal that muſt be ſo faſhioned. Thus Chriſt him<g ref="char:EOLhyphen"/>ſelf aroſe with the ſame body, to the convicti<g ref="char:EOLhyphen"/>on of <hi>Thomas,</hi> with fleſh and bones and ſcares. The miraculous reſuſcitations of ſome in the Goſpel were perambulatory proofs of the Re<g ref="char:EOLhyphen"/>ſurrection: as at Chriſt's Paſſion many bodies of Saints which ſlept aroſe, and came out of their Graves, <hi>Mat.</hi> 27.52, 53. And ſuch is the deſcrip<g ref="char:EOLhyphen"/>tion of all that riſe; they are ſaid to ſleep in the duſt, and to be in their Graves. The Sea and the Grave muſt deliver up their dead, <hi>Rev.</hi> 20.13. and they refund but what was in their cu<g ref="char:EOLhyphen"/>ſtody. Nor can there be a Reſurrection unleſs the ſame body be reſtored; for it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="19" facs="tcp:101288:12"/>a quickning or ſetting up that which firſt fell: now the ſpirit of man falls not, it goes upward; the ſoul dies not, 'tis the body that dies. And that body that before was de<g ref="char:EOLhyphen"/>priv'd of life, and that has its particular indi<g ref="char:EOLhyphen"/>viduation and diſtinction from other bodies, e<g ref="char:EOLhyphen"/>ven that very body ſhall riſe again. <hi>Reſurget caro, &amp; quidem omnis, &amp; quidem ipſa, &amp; quidem in<g ref="char:EOLhyphen"/>tegra.</hi> Bern. Can the juſtice of God permit that theſe bodies, that ſuffered for him here, ſhould be rewarded in a Subſtitute? that theſe ſhould contend and be victors, and others carry away the Crown? Muſt they not all appear before the Judgment Seat to receive the things done in the body, 2 <hi>Cor.</hi> 5.10. It is the ſame mortal body that ſhall be quickned? <hi>Rom.</hi> 8.11. <hi>Death ſhall give up it's dead, and that to be judged every man according to his works,</hi> Rev. 20.13. Now this is not to be underſtood of the ſoul, but of the body; for it's the body that dies; this death delivers up, which reunited with the ſoul does conſtitute and make the man, who is to be judged: and this extends to every individual perſon, for <hi>[Every man is to be judged]</hi> and that according to their works, which are their own, and not the works of any other: and theſe works done in that very individual body. And thus it is evi<g ref="char:EOLhyphen"/>dent
+<pb n="20" facs="tcp:101288:13"/>that it is the very ſame body that is to be rais'd again, which is here expreſs'd by being <hi>[clothed upon.]</hi>
+            </p>
+            <p n="2">2. What that is that makes this body <hi>[an houſe from heaven.]</hi>
+            </p>
+            <p>That this mortal body is to be raiſed again from the dead we do believe: and that this mortal body ſhall then be gloriouſly altered as to heavenly qualities and endowments is a truth which Believers are well ſatisfied in. Now wherein this glorious alteration ſtands, which makes this body an <hi>[houſe from heaven,]</hi> is to be enquired into. And this the Apoſtle gives in a fourfold Morphoſis, 1 <hi>Cor.</hi> 15.42, 43.</p>
+            <p n="1">1. <hi>This body is raiſed in incorruption.</hi> Here the body is liable to corruption, but when rai<g ref="char:EOLhyphen"/>ſed again ſhall ſee no corruption. It ſhall not be obnoxious to fragility and breakings, to ſtench and diſeaſes, to putrifying ſores, and cor<g ref="char:EOLhyphen"/>rupting aggreſſions preparing it to be meat for worms. It ſhall be freed from paſſion, not liable to feel, nor ſuffer under the ſenſe of ſuch evils, as here it is burdened with. The Saints raiſed from the dead are as the Angels of God in hea<g ref="char:EOLhyphen"/>ven, they die no more, death is ſwallowed up in perfect victory to them.</p>
+            <p n="2">2. <hi>'Tis raiſed in glory.</hi> Here 'tis a vile and
+<pb n="21" facs="tcp:101288:13"/>inglorious body: but then it ſhall be gloriouſly faſhioned at the Reſurrection. As the face of Chriſt at his Transfiguration did ſhine as the Sun; and <hi>Moſes</hi> and <hi>Elias</hi> did then appear in glory, arraied with beauty and Majeſty; ſo the bodies of the Saints ſhall be full of glory. The Prophet <hi>Daniel</hi> does thus expreſs this change, ſaying, <hi>And they that be wiſe ſhall ſhine as the bright<g ref="char:EOLhyphen"/>neſs of the Firmament, and they that turn many to righteouſneſs, as the ſtars for ever and ever,</hi> Dan. 12.3.</p>
+            <p n="3">3. <hi>'Tis raiſed in power,</hi> not needing any of thoſe ſupports, that the body in this life does neceſſarily call for. Here the body would fail were it not ſupported, and from time to time prop'd up by the continued acceſſions of meat, and drink, and ſleep, and reſt. But there the body ſhall need none of theſe ſupplies, but be ever powerful and active to the performance of thoſe heavenly exerciſes and employments to which it is appointed, without the help of theſe. This power wherein the body is to be raiſed, and which the body is to be veſted with, does imply its ſtrength for action without weakneſs, and it's agility for exerciſe without dulneſs, and this by virtue of that power only, and that to all eternity.</p>
+            <pb n="22" facs="tcp:101288:14"/>
+            <p n="4">4. <hi>'Tis rais'd a ſpiritual body.</hi> Here it is onely natural, there it ſhall be ſpiritual. The natura<g ref="char:EOLhyphen"/>lity of the body ſhall be changed into a ſpiritu<g ref="char:EOLhyphen"/>ality. Now this ſpiritual change does import two things.</p>
+            <p n="1">1. That the bodies of the Saints ſhall be freed from the dregs of the earth; no more of that groſs matter, of that lumpiſh leaven in them: they ſhall be ſpiritualiz'd and purified from their earthly droſs.</p>
+            <p n="2">2. The ſpirituality of the body does import the perfect ſubjection of the body to the ſpirit, without a luſt to the contrary, or the leaſt gain<g ref="char:EOLhyphen"/>ſaying motion: No ſenſual appetite, or unruly paſſion then begging and craving ſatisfaction; or maintaining a Plea or Claim to that which the ſpirit diſallows. Then the body ſhall be wholly governed by the ſpirit, performing ſpi<g ref="char:EOLhyphen"/>ritual actions, employed in ſpiritual ſervices, and in all things ſuited to the ſtate and conditi<g ref="char:EOLhyphen"/>on of heaven; which fleſh and blood cannot in<g ref="char:EOLhyphen"/>herit.</p>
+            <p>And thus the body at the reſurrection being made a ſpiritual body, does denote, not only the infirmity, but the corruption of our nature done away.</p>
+            <pb n="23" facs="tcp:101288:14"/>
+            <p>And in theſe four reſpects chiefly it is that the body at the reſurrection is ſtiled <hi>[an houſe from heaven.</hi>
+            </p>
+            <p>Thus we have gone through the latter par<g ref="char:EOLhyphen"/>ticular in the Text, <hi>viz.</hi> the motive and object of the Believer's deſire to die. Now to cloſe up all in a word.</p>
+            <p>Let us well conſider the many evils and miſe<g ref="char:EOLhyphen"/>ries we are liable to,
+<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> and labour under whilſt we are here in this preſent world, as alſo the ever<g ref="char:EOLhyphen"/>laſting reſt and bleſſed eternity that is before us; and then we ſhall ſee, how cogent the reaſons are for groaning in this preſent ſtate. We ſhall groan to be ſet at liberty from the bonds of evil, and groan to come to the enjoyment of the adoption, to wit, the redemption of the body. Let us long for heaven, for that is our Countrey, our better Countrey; whilſt here, we are not at home, but ſtrangers, and ſojourners as in the wilder<g ref="char:EOLhyphen"/>neſs; O, let the <hi>Canaan</hi> that is before us take up our thoughts, and invigorate our endeavours; ſo as the ſerious conſideration of the certainty and ſweetneſs of the end may facilitate the dif<g ref="char:EOLhyphen"/>ficulties of the way, and ſpirit us in our journey. In heaven is our Eſtate, there are our Relations; where we ſhall be void of ſorrow and pain, of luſt and ſin, and have the bleſſed fruition of
+<pb n="24" facs="tcp:101288:15"/>God and Chriſt in everlaſting peace and joy. Did <hi>David</hi> ſo earneſtly long after the earthly Temple made with hands, ſo as his ſoul fainted for the Courts of the Lord? Did he ſo fervently deſire communion with God there? How much more ſhould we breath after the heavenly <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> to enjoy communion with the general Aſſembly and Church of the firſt-born, which are written in heaven; and with God the Judg of all, and with the ſpirits of juſt men made perfect. We have renounced the world, and by our baptiſmal vow bound our ſelves heaven<g ref="char:EOLhyphen"/>wards: Our friends are gone before us, and are there expecting us, the goodly fellowſhip of the Prophets, the glorious Quire of the Apoſtles, the noble Army of Martyrs, the whole race of Believers: Let us make haſt to them; there is the beſt place, the beſt condition, the beſt com<g ref="char:EOLhyphen"/>pany. Therefore haſten your work, gird up the loins of your mind, make full preparation for your journey: looſen your hearts from the things of this world, and the tedious diſtractions of con<g ref="char:EOLhyphen"/>cerns below: forget the things which are be<g ref="char:EOLhyphen"/>hind, and reach forth unto thoſe things which are before, and preſs toward the mark, for the price of the high calling of God in Chriſt Jeſus. Your full and complete happineſs is before you,
+<pb n="25" facs="tcp:101288:15"/>you cannot expect the enjoyment of it here, and you are to paſs thereto through the gate of death: every one of them, that appear before God in <hi>Sion</hi> do paſs through the Valley of <hi>Baca.</hi> There<g ref="char:EOLhyphen"/>fore acquaint your ſelves with death in the nature thereof, and ends thereof as to true Chriſtians; that ſo the thoughts thereof may be ſweetned to you, and by this means you may learn that great and needful leſſon of dying daily: which once throughly underſtood, and practically impro<g ref="char:EOLhyphen"/>ved, will not only make death leſs fearful, but truly deſirable, as being an inlet into your ever<g ref="char:EOLhyphen"/>laſting joy. Into the which joy the Lord of his infinite mercy conduct us all.</p>
+            <p>Thus I have done with my Text.</p>
+            <p>Now give me leave to add a word or two as to the preſent occaſion, and I have done.</p>
+            <p>It has pleaſed Almighty God, the wiſe di<g ref="char:EOLhyphen"/>ſpenſer of all his providences (though many of them dark to us, yet all of them evident to, and ordered by his allſeeing and foreſeeing eye) by a ſudden ſtroak to make a ſad breach in a wor<g ref="char:EOLhyphen"/>thy Family, in taking away the chief head there<g ref="char:EOLhyphen"/>of, a perſon of great worth and honour: of an
+<pb n="26" facs="tcp:101288:16"/>honorable extraction, of a generous diſpoſition, and of a courteous, kind, and affable temper. Whoſe high degree was ſo ſeaſoned with an humble carriage towards all inferiours, as laid upon them a juſt obligation for true honour and ſervice.</p>
+            <p>And that I may give you no other Character of him but what is juſt and due, and becom<g ref="char:EOLhyphen"/>ing this place. I may truly tell you, and your teſtimony goes along with me herein, that He was free and hoſpitable in the entertainment of his friends, and moſt pleaſed with their kind and cheerful viſits. His comportments at home and abroad were like himſelf, ever beſpeaking a generous and worthy mind; and ſuitable to that eminency of intereſt and repute which up<g ref="char:EOLhyphen"/>on juſt accounts he held in his Country.</p>
+            <p>'Twas his great and deſerved commendations, that he was free from thoſe vices (though there is no man without Sin) which are the grand ſtains of true honour; I meane intemperance, debaucheries, revellings, diſſolute practiſes, profligate courſes, and the like, with which theſe evil times, and daies of iniquity do ſo much a<g ref="char:EOLhyphen"/>bound.</p>
+            <p>That he was a profeſs'd Proteſtant I need not tell you. 'Tis well known to thoſe that knew
+<pb n="27" facs="tcp:101288:16"/>him, how real and forward he was that way: And his publick receiving the holy Sacrament of the Lord's Supper by my miniſtration in this place, and in this Congregation, according to the uſage of the Church of <hi>England,</hi> as you can teſtifie, bears witneſs for him.</p>
+            <p>He was a perſon of many moral virtues, and divine graces too. That expreſſion of his to a friend of his not long before he died, that God accepts of a little grace if true and ſaving: and that none knew what had paſſed between God and his own Soul in ſecret, argued more than an ordinary ſtamp of grace upon him: which might be evidenc'd in divers particulars, were there time convenient for it.</p>
+            <p>He had ſome forethoughts and previous ap<g ref="char:EOLhyphen"/>prehenſions of his death approaching, or at leaſt that he ſhould not live long: which may be hence inferr'd; in that not long before the di<g ref="char:EOLhyphen"/>ſtemper ſeiz'd him, whereof he ſhortly died, and when he ſeem'd to be well in health as to his bodily ſtate, yet then he diſcourſ'd of his death and latter end, as coming on; and of ſe<g ref="char:EOLhyphen"/>veral particulars, which he foreſaw would be incident thereupon; (as repreſenting that ſtate to himſelf in his own thoughts by a previous
+<pb n="28" facs="tcp:101288:17"/>Survey) and ſo was a proceeding to give divers directions and monitions, which the love, his dear relations had to him, would not ſuffer them to hear uttered upon ſuch an occaſion.</p>
+            <p>God ſometimes does preimpreſs the thoughts of his ſervants with apprehenſions of their lat<g ref="char:EOLhyphen"/>ter end approaching, when there's little out<g ref="char:EOLhyphen"/>ward appearance for it: and yet then it may be near at hand. So that ſuch impreſſions are not to be paſſ'd by without their due re<g ref="char:EOLhyphen"/>marks.</p>
+            <p>In a word, I may truly ſay that the Country has loſt a good Patriot; the Gentry an eminent perſon in their number; the poor Neigh<g ref="char:EOLhyphen"/>bourhood a conſtant and charitable Sup<g ref="char:EOLhyphen"/>porter; Friends an hoſpitable Receiver; Kin<g ref="char:EOLhyphen"/>dred an honourable and reſpective Relation: Servants have loſt a good Maſter, my ſelf a worthy Patron, Children an indulgent Father, an honourable and vertuous Lady a dear Con<g ref="char:EOLhyphen"/>ſort. But though the loſs be great in theſe re<g ref="char:EOLhyphen"/>ſpects on earth, yet the gain is far more exceed<g ref="char:EOLhyphen"/>ing and weighty to him in Heaven: Let the conſideration hereof quiet our thoughts, and compoſe our ſpirits in ſetting the one againſt the other.</p>
+            <pb n="29" facs="tcp:101288:17"/>
+            <p>Now to God the Father, God the Son, and God the Holy Ghoſt, Three Perſons, but one everliving and only true God, be aſcribed and given, as meet and due is, all Power, Praiſe, Honor and Glory, Majeſty and Dominion hence<g ref="char:EOLhyphen"/>forth and for ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
